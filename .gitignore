@@ -1,0 +1,12 @@
+#Build Files
+target/
+
+#Intellij
+.idea/
+*.iml
+
+#Macos
+.DS_Store
+
+#datafile
+*.bib
