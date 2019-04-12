@@ -8,5 +8,3 @@ target/
 #Macos
 .DS_Store
 
-#datafile
-*.bib
