@@ -48,11 +48,4 @@ public class BibParserTest {
         assertEquals("1983", bibEntry2.get("year"));
     }
 
-    @Test @Ignore
-    public void  bigFile() {
-        File file = new File("cs-bibliography.bib");
-        bibParser = new BibParser(file);
-    }
-
-
 }

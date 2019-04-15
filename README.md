@@ -13,3 +13,5 @@ Then you can search that directory for:
 1. single term in a field `field:word`
 
 To exit the application type `quit` or `exit`.
+
+Testing is minimal, the boolean multi-term and single field term query work.
