@@ -1,11 +1,6 @@
 package edu.ecu.cs.csci6030.search.index;
 
 
-import edu.ecu.cs.csci6030.search.DocumentList;
-import edu.ecu.cs.csci6030.search.FileIndexer;
-import edu.ecu.cs.csci6030.search.InvalidDirectoryException;
-
-import java.io.File;
 import java.io.IOException;
 
 import org.apache.lucene.document.Document;
